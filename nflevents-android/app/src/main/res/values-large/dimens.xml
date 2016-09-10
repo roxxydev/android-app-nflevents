@@ -1,0 +1,19 @@
+<resources>
+
+    <dimen name="dimen_activity_home_horizontal_margin">4dp</dimen>
+    <dimen name="dimen_activity_home_vertical_margin">4dp</dimen>
+
+    <dimen name="dimen_fragment_venue_details_scrollview_margin">4dp</dimen>
+
+    <dimen name="dimen_frag_venue_list_item_tv_margin_leftright">4dp</dimen>
+    <dimen name="dimen_frag_venue_list_item_tv_margin_topbottom">2dp</dimen>
+    <dimen name="dimen_frag_venue_list_item_name_tv_size">20dp</dimen>
+    <dimen name="dimen_frag_venue_list_item_address_tv_size">18dp</dimen>
+
+    <dimen name="dimen_frag_venue_details_name_tv_size">22dp</dimen>
+    <dimen name="dimen_frag_venue_details_address_tv_size">18dp</dimen>
+    <dimen name="dimen_frag_venue_details_schedule_tv_size">18dp</dimen>
+
+    <dimen name="dimen_frag_venue_details_view_btm_margin">4dp</dimen>
+
+</resources>

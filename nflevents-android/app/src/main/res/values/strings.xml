@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFL Events</string>
+
+    <string name="menu_venue_details_share">SHARE</string>
+
+    <string name="ab_venue_details_title">Details</string>
+
+</resources>
